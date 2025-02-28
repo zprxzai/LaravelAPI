@@ -1,4 +1,4 @@
-# Laravel API - Student Management
+# REST API - Student 
 
 ## 📌 Penjelasan
 Ini adalah proyek REST API untuk mengelola data siswa (students). API ini menyediakan fitur CRUD (Create, Read, Update, Delete) dengan satu tabel utama, yaitu `students`.
